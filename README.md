@@ -1,55 +1,48 @@
-# 📈 YouTube Channel Performance Analysis
+# 🚀 My Data Analytics Projects  
 
-This project provides a detailed analysis of a YouTube channel's performance using **Power BI**. The goal is to uncover key trends, viewer behavior, and overall content impact by visualizing metrics such as views, watch time, impressions, click-through rate (CTR), subscriber growth, and engagement.
-
----
-
-## 📂 Files Included
-
-- **`youtube_performance.pbix`** – Power BI report file containing interactive dashboards and charts.
-- **`project_summary.pdf`** – A concise PDF summary highlighting key insights from the data analysis.
+Welcome to my personal projects repository!  
+This repo is a collection of my **Power BI and Data Analytics projects**, where I analyze real-world datasets to extract insights, design dashboards, and present meaningful stories through data.  
 
 ---
 
-## 🔧 Tools & Technologies
+## 📊 Featured Projects  
 
-- Power BI
-- YouTube Analytics Data (exported from Creator Studio)
-- Excel / CSV (as a data source)
+### 1️⃣ YouTube Channel Analysis  
+- Analyzed **channel performance, audience engagement, and content trends**.  
+- Tracked KPIs such as **views, watch time, likes, and subscriber growth**.  
+- Designed dashboards to compare **content categories and audience retention**.  
 
----
-
-## 🔍 Key Insights
-
-- Top-performing videos based on watch time and views
-- Audience retention trends over time
-- Devices and geographies contributing most to traffic
-- Subscriber trends and content engagement metrics
-- CTR and thumbnail performance insights
+🔗 [View Project](./YouTube-Channel-Analysis)  
 
 ---
 
-## 📊 Dashboard Highlights
+### 2️⃣ Global Student Migration Analysis  
+- Explored trends in **student migration across countries and regions**.  
+- Identified **top destination countries** and **growth in international student mobility**.  
+- Provided insights into how global education and migration patterns are changing.  
 
-The Power BI dashboard includes:
-- Dynamic filters for video titles, time periods, and traffic sources
-- KPI cards for quick insights
-- Visuals like bar charts, line graphs, and donut charts
-
----
-
-## 📁 How to Use
-
-1. Download the `.pbix` file
-2. Open it with [Power BI Desktop](https://powerbi.microsoft.com/)
-3. Explore the report interactively using slicers and visuals
-4. Read the `project_summary.pdf` for a quick overview of the findings
+🔗 [View Project](./Global-Student-Migration-Analysis)  
 
 ---
 
-## ✅ About the Project
+### 3️⃣ Loan Default Risk Analysis  
+- Built an interactive dashboard to analyze **loan performance and default risks**.  
+- Compared loan defaults across **income levels, loan amounts, and applicant segments**.  
+- Identified high-risk groups and provided insights for **risk management strategies**.  
 
-This is a personal project created to better understand YouTube analytics using data visualization tools. It demonstrates how business intelligence tools like Power BI can turn raw data into actionable insights.
+🔗 [View Project](./Loan-Default-Risk-Analysis)  
 
+---
+
+## 🛠️ Tools & Technologies  
+- **Power BI** → Interactive dashboards, DAX, KPIs  
+- **SQL** → Querying, data transformation  
+- **Excel** → Data cleaning and preparation  
+- **Data Visualization** → Turning raw data into actionable insights  
+
+---
+
+## ✨ About This Repo  
+This repository reflects my journey in **Data Analytics & Business Intelligence**, showcasing my ability to work with diverse datasets, build dashboards, and deliver insights that can drive decision-making.  
 
 ---
